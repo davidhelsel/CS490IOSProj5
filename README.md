@@ -24,7 +24,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/mSdsKny"  ><a href="//imgur.com/a/mSdsKny">test</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJiODU5ZmYxMzRhMGExYTMzMmU5Yzg0YTI4Y2QyZDZlNDdhMzMzNyZjdD1n/mgIRjJyR1b4fVmOW7Q/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Imgur/Screensjot app 
 <!-- Recommended tools:
